@@ -1,5 +1,4 @@
-Curso node da HCODE
+Curso node da HCODE/learnyounode
 
 Aluno Emerson Diniz Leme  
 Nick EmersonDjob 
-new skill Node.js
