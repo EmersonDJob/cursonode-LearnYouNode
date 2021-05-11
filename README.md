@@ -1,4 +1,4 @@
-Curso node da HCODE/learnyounode
+Curso node learnyounode
 
 Aluno Emerson Diniz Leme  
 Nick EmersonDjob 
